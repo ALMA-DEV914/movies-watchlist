@@ -40,7 +40,7 @@ const MovieGrid = props => {
             setTotalPage(response.total_pages);
         }
         getList();
-    }, [props.category, keyword]);
+    }, [keyword, props.category]);
 
     const loadMore = async () => {
         let response = null;
