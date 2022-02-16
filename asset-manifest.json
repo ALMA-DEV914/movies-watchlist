@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movies-watchlist/static/css/main.cb6dd263.css",
+    "main.js": "/movies-watchlist/static/js/main.7ce90586.js",
+    "static/media/boxicons.svg": "/movies-watchlist/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/movies-watchlist/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movies-watchlist/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movies-watchlist/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movies-watchlist/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movies-watchlist/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movies-watchlist/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/movies-watchlist/index.html",
+    "main.cb6dd263.css.map": "/movies-watchlist/static/css/main.cb6dd263.css.map",
+    "main.7ce90586.js.map": "/movies-watchlist/static/js/main.7ce90586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6dd263.css",
+    "static/js/main.7ce90586.js"
+  ]
+}
