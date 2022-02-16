@@ -6,9 +6,15 @@ import Home from '../pages/Home';
 import Catalog from '../pages/Catalog';
 import Detail from '../pages/detail/Detail';
 
+
 const Routes = () => {
     return (
         <Switch>
+            <Route
+                path='/'
+                exact
+                component={Home}
+            />
             <Route
                 path='/:category/search/:keyword'
                 component={Catalog}
@@ -21,11 +27,7 @@ const Routes = () => {
                 path='/:category'
                 component={Catalog}
             />
-            <Route
-                path='/'
-                exact
-                component={Home}
-            />
+        
         </Switch>
     );
 }
