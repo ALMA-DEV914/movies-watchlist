@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 # movies-watchlist
 
+This app use SASS frameworks and you can view the app [here](https://alma-dev914.github.io/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
