@@ -4,7 +4,8 @@
 
 This app used TMDB API to fetch the data of the movies, tv shows and the preview videos. 
 ## TOOLS
-REACT.JS, SASS frameworks.
+REACT packages, SASS frameworks, axios packages from NODE, swiper for touch mobile slider.
+
 This app can view [here](https://alma-dev914.github.io/movies-watchlist)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
