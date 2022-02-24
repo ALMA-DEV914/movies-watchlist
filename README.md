@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 # movies-watchlist
+## Description
 
-This app use SASS frameworks and you can view the app [here](https://alma-dev914.github.io/movies-watchlist)
+This app used TMDB API to fetch the data of the movies, tv shows and the preview videos. 
+## TOOLS
+REACT.JS, SASS frameworks.
+This app can view [here](https://alma-dev914.github.io/movies-watchlist)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
