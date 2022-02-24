@@ -18,9 +18,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Snaphots
 
 <img width="1792" alt="Screen Shot 2022-02-24 at 2 30 33 PM" src="https://user-images.githubusercontent.com/65073138/155618471-e08c567c-77ae-4870-91b8-4d7ffc5564de.png">
+
 <img width="1791" alt="Screen Shot 2022-02-24 at 2 29 50 PM" src="https://user-images.githubusercontent.com/65073138/155618486-e27693c5-78a7-4181-b957-435e4dfcbc37.png">
 
-[Uploading Screen Shot 2022-02-24 at 2.31.00 PM.png…]()
+<img width="1788" alt="Screen Shot 2022-02-24 at 2 31 00 PM" src="https://user-images.githubusercontent.com/65073138/155618696-ba2b9848-7b9f-4408-ae8f-94b6a3f76fb9.png">
+
 
 ## Available Scripts!
 
