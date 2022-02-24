@@ -1,10 +1,16 @@
 # Getting Started with Create React App
 # movies-watchlist
-## Description
-
-This app used TMDB API to fetch the data of the movies, tv shows and the preview videos. 
+ 
 ## TOOLS
-REACT packages, SASS frameworks, axios packages from NODE, swiper for touch mobile slider.
+    REACT packages, 
+    SASS frameworks, 
+    axios packages from NODE, 
+    swiper for touch mobile slider.
+## Features
+
+    This app used TMDB API to fetch the data of the movies, tv shows and the preview videos.
+    This app will allow users to search for a certain movie, tv show from the search bar.
+    This app will features title and few preview videos and realted shows.
 
 This app can view [here](https://alma-dev914.github.io/movies-watchlist)
 
