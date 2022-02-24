@@ -12,7 +12,7 @@
     This app will allow users to search for a certain movie, tv show from the search bar.
     This app will features title and few preview videos and realted shows.
 
-This app can view [here](https://alma-dev914.github.io/movies-watchlist)
+This application was deployed [@CINEDessert](https://alma-dev914.github.io/movies-watchlist)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
