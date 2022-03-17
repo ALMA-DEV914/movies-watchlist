@@ -11,6 +11,11 @@
     This app used TMDB API to fetch the data of the movies, tv shows and the preview videos.
     This app will allow users to search for a certain movie, tv show from the search bar.
     This app will features title and few preview videos and realted shows.
+    
+ ## Usage
+ 
+    Git clone the project repository. Cd into the project and run npm install to download the depencies.
+    Then you run npm start from the command line and the app will automatically open in the browser.
 
 This application was deployed [@CINEDessert](https://alma-dev914.github.io/movies-watchlist)
 
